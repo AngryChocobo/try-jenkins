@@ -1,3 +1,3 @@
 # try-jenkins
 
-test trigger git push step6
+test trigger git push step7
